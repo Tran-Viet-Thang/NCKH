@@ -1,0 +1,9 @@
+transformers==4.38.2
+torch==2.2.1
+sentencepiece==0.2.0
+py_vncorenlp==0.1.4
+python-dotenv==1.0.1
+flask==3.0.0
+pandas==2.2.0
+python-dotenv==1.0.1
+py_vncorenlp==0.1.4
